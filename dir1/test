@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test from dir1
 <<<<<<< HEAD
 =======
@@ -9,3 +10,6 @@ new line
 new line
 new line
 >>>>>>> 5c930a5 (add new few lines in dir1/test)
+=======
+it's cool
+>>>>>>> 2786119 (add in dir1/test info)
