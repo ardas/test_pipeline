@@ -2,4 +2,10 @@ test from dir1
 <<<<<<< HEAD
 =======
 new line
+<<<<<<< HEAD
 >>>>>>> 1b09423 (add new line and remove few lines)
+=======
+new line
+new line
+new line
+>>>>>>> 5c930a5 (add new few lines in dir1/test)
