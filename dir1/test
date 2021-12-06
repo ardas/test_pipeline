@@ -1,1 +1,5 @@
 test from dir1
+<<<<<<< HEAD
+=======
+new line
+>>>>>>> 1b09423 (add new line and remove few lines)
