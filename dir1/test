@@ -12,4 +12,14 @@ new line
 >>>>>>> 5c930a5 (add new few lines in dir1/test)
 =======
 it's cool
+<<<<<<< HEAD
 >>>>>>> 2786119 (add in dir1/test info)
+=======
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+>>>>>>> a1bd303 (add in dir1/test one more strings)
