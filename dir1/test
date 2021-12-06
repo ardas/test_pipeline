@@ -14,6 +14,7 @@ new line
 it's cool
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2786119 (add in dir1/test info)
 =======
 it's cool
@@ -24,10 +25,13 @@ it's cool
 <<<<<<< HEAD
 =======
 >>>>>>> 0a896e4 (change test in dir1)
+=======
+>>>>>>> 7c782a5 (test trigger in dir1)
 it's cool
 it's cool
 it's cool
 it's cool
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a1bd303 (add in dir1/test one more strings)
 =======
@@ -46,3 +50,13 @@ it's cool
 >>>>>>> 144ac29 (check trigger from dir1)
 =======
 >>>>>>> 1e2a62e (check trigger from dir1)
+=======
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+>>>>>>> 7c782a5 (test trigger in dir1)
