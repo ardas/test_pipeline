@@ -15,6 +15,7 @@ it's cool
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2786119 (add in dir1/test info)
 =======
 it's cool
@@ -53,6 +54,8 @@ it's cool
 =======
 it's cool
 <<<<<<< HEAD
+=======
+>>>>>>> 59a0541 (add some test text in dir1/test)
 it's cool
 it's cool
 it's cool
@@ -60,6 +63,22 @@ it's cool
 it's cool
 it's cool
 it's cool
+<<<<<<< HEAD
 >>>>>>> 7c782a5 (test trigger in dir1)
 =======
 >>>>>>> 1a3b4c2 (test trigger in dir1)
+=======
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+it's cool
+>>>>>>> 59a0541 (add some test text in dir1/test)
