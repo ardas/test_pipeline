@@ -52,6 +52,7 @@ it's cool
 >>>>>>> 1e2a62e (check trigger from dir1)
 =======
 it's cool
+<<<<<<< HEAD
 it's cool
 it's cool
 it's cool
@@ -60,3 +61,5 @@ it's cool
 it's cool
 it's cool
 >>>>>>> 7c782a5 (test trigger in dir1)
+=======
+>>>>>>> 1a3b4c2 (test trigger in dir1)
