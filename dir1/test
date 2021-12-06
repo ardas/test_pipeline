@@ -18,8 +18,11 @@ it's cool
 it's cool
 it's cool
 it's cool
+<<<<<<< HEAD
 it's cool
 it's cool
 it's cool
 it's cool
 >>>>>>> a1bd303 (add in dir1/test one more strings)
+=======
+>>>>>>> 57be454 (change info in dir1/test)
